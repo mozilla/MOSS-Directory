@@ -5,9 +5,9 @@
 |2019| Emanuele Cesena |  SoloKeys Inc. | $30,000 | Increase Security | https://github.com/solokeys/solo  |  https://solokeys.com |  SoloKeys makes open source hardware for secure login. They are seeking funding to achieve FIDO2 certification and to positionSoloKeys as the reference implementation for a FIDO2. |
 |2019| mod_md v2 | Greenbytes GmbH | $50,000 | Increase Security | https://github.com/icing/mod_md | https://httpd.apache.org | The Apache HTTP Server Project is an effort to develop and maintain an open-source HTTP server for modern operating systems including UNIX and Windows. The goal of this project is to provide a secure, efficient and extensible server that provides HTTP services in sync with the current HTTP standards.|
 |2019| MicroBlocks | Microblocks | $28,400 | Empower Users | https://github.com/bromagosa/microblocks-site | http://microblocks.fun | MicroBlocks is a free, open-source, blocks-based programming environment for microcontrollers such as the BBC micro:bit. The primary goal of MicroBlocks is to teach children (ages 10-15) programming and computational thinking through exciting physical computing projects that connect to their personal interests. MicroBlocks includes Mozilla’s WoT library directly in the Integrated Development Environment (IDE), along with several examples.|
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
-|   |   |   |   |   |   |   |
+|2018|CodeMirror| Marijn Haverbeke | $50,000 | Empower users | https://codemirror.net/ | https://github.com/codemirror/codemirror.next | CodeMirror is a source code editor component for use in the browser. It aims to provide a powerful, feature-rich text editor that's easy to integrate into websites. It's the editor used GibHub and Bitbucket's web interface, the devtools for Firefox, Chrome, and Safari, and sites like jsfiddle, jsbin, and glitch.com.|
+|2018| Dat | Code for Science and Society Inc | $34,000 | Empower users |   | https://github.com/datproject | Dat is a nonprofit-backed data sharing protocol for applications of the future. With software built for researchers and data management, Dat empowers people with decentralized data tools.|
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
+|   |   |   |   |   |   |   |   |
