@@ -16,5 +16,5 @@
 |2018| Godot Engine | Software Freedom Conservancy | $50,000 | Empower users | https://godotengine.org |
 |2018| Identihub | Redon Skikuli | $10,000 | Empower users | https://identihub.co |
 |2018| GitMate | GitMate UG | $3,538 | Empower users | https://docs.gitmate.io/ |
-|2018| General Operating Support | Software Freedom Conservancy | $10,000 | https://sfconservancy.org/ |
+|2018| General Operating Support | Software Freedom Conservancy | $10,000 |N/A| https://sfconservancy.org/ |
 |2017| OONI | The Tor Project, Inc. | $160,000 | Empower users | https://ooni.torproject.org/ |
