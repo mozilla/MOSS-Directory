@@ -15,6 +15,6 @@
 |2018| Modularization of Key Aspects of the Tor Network| The Tor Project, Inc.| $150,000 | Increase Security | https://torproject.org|
 |2018| Godot Engine | Software Freedom Conservancy | $50,000 | Empower users | https://godotengine.org |
 |2018| Identihub | Redon Skikuli | $10,000 | Empower users | https://identihub.co |
-|2018| GitMate | GitMate UG | $3,538 | Empower users |  |
-|2018| General Operating Support | Software Freedom Conservancy | $10,000 | N/A |
-|2017| OONI | The Tor Project, Inc. | $160,000 | | https://ooni.torproject.org/ |
+|2018| GitMate | GitMate UG | $3,538 | Empower users | https://docs.gitmate.io/ |
+|2018| General Operating Support | Software Freedom Conservancy | $10,000 | https://sfconservancy.org/ |
+|2017| OONI | The Tor Project, Inc. | $160,000 | Empower users | https://ooni.torproject.org/ |
