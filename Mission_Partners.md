@@ -6,7 +6,7 @@
 |2019| Amethyst |  Amethyst Foundation | $10,000 | Not Applicable | https://www.amethyst.rs/ |
 |2019| Tatoeba | Association Tatoeba | $15,000 | Empower Users | https://tatoeba.org |
 |2019| Tails | RiseUp Labs | $146,530 | Increase Security | https://tails.boum.org/ |
-|2018| Indic Keyboard | Jishnu Mohan | $31,7100 | Empower users | https://indic.app/ |
+|2018| Indic Keyboard | Jishnu Mohan | $31,7100 | Broaden access | https://indic.app/ |
 |2018| H5P | Joubel A.S. | $60,000 | Empower users | https://H5P.org |
 |2018| Wick Editor | Wicklets LLC | $79,120 | Empower users | www.wickeditor.com |
 |2018| p5.js | The Processing Foundation  | $69,700 | Empower users | https://p5js.org/ |
