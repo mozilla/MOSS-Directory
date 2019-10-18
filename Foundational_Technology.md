@@ -8,4 +8,4 @@
 |2018|CodeMirror| Marijn Haverbeke | $50,000 | Empower users | https://codemirror.net/ |
 |2018| Dat | Code for Science and Society Inc | $34,000 | Empower users | https://github.com/datproject |
 |2018| Phoenix and Firenest | Michal  Muskala | $15,000 | Empower users | https://github.com/phoenixframework/firenest |
-|2018| Harfbuzz | Nathan Willis Consulting LLC | $60,000.00 | Empower users | https://github.com/harfbuzz/harfbuzz |
+|2018| Harfbuzz | Nathan Willis Consulting LLC | $60,000 | Empower users | https://github.com/harfbuzz/harfbuzz |
