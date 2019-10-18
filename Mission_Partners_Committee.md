@@ -1,8 +1,9 @@
-| Name | Organization  | Year joined  |
+| Name | Organization  | Years served  |
 |---|---|---|
-| Richard Barnes | Cisco |2016|
-| Justin Dorfman | CodeFund |2016|
-| Stormy Peters | Microsoft |2016|
-| Tom Ritter | Mozilla |2016|
-| Laura Thomson | Mozilla |2016|
-| Tony Wasserman | Carnegie Mellon University |2016|
+| Richard Barnes | Cisco |2016-present|
+| Justin Dorfman | CodeFund |2016-present|
+| Stormy Peters | Microsoft |2016-present|
+| Tom Ritter | Mozilla |2016-present|
+| Laura Thomson | Mozilla |2016-present|
+| Tony Wasserman | Carnegie Mellon University |2016-present|
+| Mike Shaver | Facebook | 2016-2018 |
