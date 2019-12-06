@@ -1,5 +1,6 @@
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
+|2019|ZimIt|Kiwix|$150,000|Empower Users|https://www.kiwix.org|
 |2019| Nannou | The Nannou Organisation | $10,000 | Empower Users | https://nannou.cc/ |
 |2019| The Coral Project  | Vox Media, Inc.  | $168,450  | Empower Users  |  https://coral.voxmedia.com |
 |2019| Unbound | Stichting NLnet Labs  | $60,000 | Increase Security | https://nlnetlabs.nl/projects/unbound/about/ |
