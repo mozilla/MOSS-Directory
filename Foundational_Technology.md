@@ -1,5 +1,7 @@
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
+|2019|Core support|Public Lab|$30,203|Empower Users|https://publiclab.org/|
+|2019|Core support|Software Freedom Conservancy|$50,000|Empower Users|https://sfconservancy.org/|
 |2019|pip|Python Software Foundation|$207,000|Empower Users|https://pip.pypa.io/|
 |2019|BIND9|Internet Systems Consortium|$60,000|Broaden Access|https://www.isc.org/bind/|
 |2019| Nunspell  |  MEChKA SOFT |  $58,000 |  Broaden Access |  https://nuspell.github.io/ |
