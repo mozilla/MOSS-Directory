@@ -1,5 +1,7 @@
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
+|2019|Core support|Simpy Secure|$30,316|Not Applicable|https://simplysecure.org/|
+|2019|Core support|The Carpentries|$30,316|Not Applicable|https://carpentries.org/|
 |2019|ZimIt|Kiwix|$150,000|Empower Users|https://www.kiwix.org|
 |2019| Nannou | The Nannou Organisation | $10,000 | Empower Users | https://nannou.cc/ |
 |2019| The Coral Project  | Vox Media, Inc.  | $168,450  | Empower Users  |  https://coral.voxmedia.com |
@@ -19,5 +21,5 @@
 |2018| Godot Engine | Software Freedom Conservancy | $50,000 | Empower users | https://godotengine.org |
 |2018| Identihub | Redon Skikuli | $10,000 | Empower users | https://identihub.co |
 |2018| GitMate | GitMate UG | $3,538 | Empower users | https://docs.gitmate.io/ |
-|2018| General Operating Support | Software Freedom Conservancy | $10,000 |Not Applicable| https://sfconservancy.org/ |
+|2018| Core support | Software Freedom Conservancy | $10,000 |Not Applicable| https://sfconservancy.org/ |
 |2017| Tor OONI | The Tor Project, Inc. | $160,000 | Empower users | https://ooni.torproject.org/ |
