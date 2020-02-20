@@ -20,4 +20,9 @@
 |2017| Python Package Index (PyPI) | Python Software Foundation | $170,000 | Empower users | https://pypi.org |
 |2017|Harfbuzz|Behdad Esfahbod|$60,000|Broaden access|https://freedesktop.org/wiki/Software/HarfBuzz/|
 |2017|Zappa|Rich Jones|$65,000|Empower users|https://github.com/Miserlou/Zappa|
-
+|2016|The Intern|OpenJS Foundation|$35,000|Empower users|http:/theintern.io/|
+|2016|Django REST Framework|Encode OSS Ltd.|$50,000|Empower users|http://www.django-rest-framework.org/|
+|2016|PyPy|Baroque Software|$200,000|Empower users|https://pypy.org|
+|2016|Redash|Redash|$100,000|Empower users|https://redash.io/|
+|2016|Review Board|Beanbag, Inc.|$50,000|Empower users|https://www.reviewboard.org/|
+|2016|Kea|Internet Systems Consortium|$100,000|Broaden access|https://kea.isc.org/|
