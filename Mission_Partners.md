@@ -31,3 +31,15 @@
 |2017|GitMate|GitMate UG|$3538|Empower users|https://gitmate.io|
 |2017| Tor OONI | The Tor Project, Inc. | $160,000 | Empower users | https://ooni.torproject.org/ |
 |2017|H5P|Joubel AS|$60,000|Empower users|https://h5p.org/|
+|2016|NVDA|NV Access|$15,000|Broaden access|http://www.nvaccess.org/|
+|2016|PeARS|Aurelie Herbelot|$15,500|Empower users|http://pearsearch.org/|
+|2016|Godot Engine|Software Freedom Conservancy|$20,000|Empower users|https://godotengine.org/|
+|2016|DNSSEC/DANE Chain Stapling|No Mountain Software, LLC|$25,000|Broaden access|https://www.getdnsapi.net/|
+|2016|Mio|Carl Lerche|$30,000|Empower users|https://github.com/tokio-rs/mio|
+|2016|Caddy|Light Code Labs, LLC|$50,000|Empower users|https://caddyserver.com|
+|2016|Tails|RiseUp Labs|$77,000|Increase security|https://tails.boum.org/|
+|2016|Tor Measurement and Metrics Improvement|Tor Project|$152,500|Increase security|https://www.torproject.org|
+|2016|Speech Rule Engine|Progressive Accessibility Solutions|$56,000|Broaden access|https://speechruleengine.org/|
+|2016|Tokio|Carl Lerche|$50,000|Empower users|https://tokio.rs/|
+|2016|SecureDrop|Freedom of the Press Foundation|$250,000|Increase Security|https://securedrop.org|
+
