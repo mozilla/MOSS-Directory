@@ -20,9 +20,16 @@
 |2017| Python Package Index (PyPI) | Python Software Foundation | $170,000 | Empower users | https://pypi.org |
 |2017|Harfbuzz|Behdad Esfahbod|$60,000|Broaden access|https://freedesktop.org/wiki/Software/HarfBuzz/|
 |2017|Zappa|Rich Jones|$65,000|Empower users|https://github.com/Miserlou/Zappa|
-|2016|The Intern|OpenJS Foundation|$35,000|Empower users|http:/theintern.io/|
+|2016|The Intern|OpenJS Foundation|$35,000|Empower users|http://theintern.io/|
 |2016|Django REST Framework|Encode OSS Ltd.|$50,000|Empower users|http://www.django-rest-framework.org/|
 |2016|PyPy|Baroque Software|$200,000|Empower users|https://pypy.org|
 |2016|Redash|Redash|$100,000|Empower users|https://redash.io/|
 |2016|Review Board|Beanbag, Inc.|$50,000|Empower users|https://www.reviewboard.org/|
 |2016|Kea|Internet Systems Consortium|$100,000|Broaden access|https://kea.isc.org/|
+|2015|CodeMirror|Marijn Haverbeke|$20,000|Empower users|https://codemirror.net/|
+|2015|Discourse|Civilized Discourse Construction Kit, Inc.|$25,000|Empower users|https://www.discourse.org/|
+|2015|Zeek Network Security Monitor|Bro Project|$200,000|Increase security|https://www.zeek.org/|
+|2015|Django|Django Software Foundation|$150,000|Empower users|https://www.djangoproject.com/|
+|2015|Read the Docs|Read the Docs, Inc.|$48,000|Empower users|https://readthedocs.org/|
+|2015|BuildBot|Software Freedom Conservancy|$15,000|Empower users|https://buildbot.net/|
+|2015|Mercurial|Mercurial|$75,000|Empower users|https://www.mercurial-scm.org/|
