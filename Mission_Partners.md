@@ -1,5 +1,6 @@
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
+|2020|Wick Editor|Wicklets LLC|$70,400|Empower users|https://www.wickeditor.com|
 |2019|Core support|Simpy Secure|$30,316|Not applicable|https://simplysecure.org/|
 |2019|Core support|The Carpentries|$30,316|Not applicable|https://carpentries.org/|
 |2019|ZimIt|Kiwix|$150,000|Empower users|https://www.kiwix.org|
@@ -12,7 +13,7 @@
 |2019| Tails | RiseUp Labs | $146,530 | Increase security | https://tails.boum.org/ |
 |2018| Indic Keyboard | Jishnu Mohan | $31,7100 | Broaden access | https://indic.app/ |
 |2018| H5P | Joubel A.S. | $60,000 | Empower users | https://H5P.org |
-|2018| Wick Editor | Wicklets LLC | $79,120 | Empower users | www.wickeditor.com |
+|2018| Wick Editor | Wicklets LLC | $79,120 | Empower users | https://www.wickeditor.com |
 |2018| p5.js | The Processing Foundation  | $69,700 | Empower users | https://p5js.org/ |
 |2018| Osmocom | Sysmocom Systems for Mobile Communications GmbH | $75,000 | Broaden access | https://osmocom.org/projects/cellular-infrastructure |
 |2018| Routinator| Stichting NLnet Labs | $60,000 | Broaden access | https://nlnetlabs.nl/projects/rpki/routinator/ |
