@@ -1,5 +1,6 @@
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
+|2020|VideoWiki|Pratik Shetty|$12,618|Empower users|https://www.videowiki.org/|
 |2020|Wick Editor|Wicklets LLC|$70,400|Empower users|https://www.wickeditor.com|
 |2020|Mun Programming Language|Remco Kuijper|$15,000|Empower users|https://mun-lang.org/|
 |2019|Core support|Simpy Secure|$30,316|Not applicable|https://simplysecure.org/|
