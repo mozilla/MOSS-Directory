@@ -2,4 +2,5 @@ The COVID-19 Solutions Fund provided funding to a limited number of open-source 
 
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
-|2020|Covid Supplies NYC|3D Brooklyn, LLC|$20,000|Not Applicable|https://covidsupplies.nyc/|
+|2020|Covid Supplies NYC|3D Brooklyn, LLC|$20,000|COVID-19|https://covidsupplies.nyc/|
+|2020|COVID–19 Incarceration Model|Recidiviz Inc.|$50,000|COVID-19|https://www.recidiviz.org/covid|
