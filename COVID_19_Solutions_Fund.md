@@ -4,3 +4,4 @@ The COVID-19 Solutions Fund provided funding to a limited number of open-source 
 |---|---|---|---|---|---|
 |2020|Covid Supplies NYC|3D Brooklyn, LLC|$20,000|COVID-19|https://covidsupplies.nyc/|
 |2020|COVID–19 Incarceration Model|Recidiviz Inc.|$50,000|COVID-19|https://www.recidiviz.org/covid|
+|2020|VentMon|Public Invention|$20,000|COVID-19|https://github.com/PubInv/ventmon-ventilator-inline-test-monitor|
