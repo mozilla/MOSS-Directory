@@ -2,6 +2,7 @@ The COVID-19 Solutions Fund provided funding to a limited number of open-source 
 
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
+|2020|OpenMRS|OpenMRS, Inc.|$49,754|COVID-19|https://openmrs.org/|
 |2020|Careables|Ricardo Ruiz Freire|$30,000|COVID-19|https://www.careables.org/|
 |2020|Open Food Network|Open Food Network U.K CIC|$45,210|COVID-19|https://www.openfoodnetwork.org/|
 |2020|Covid Supplies NYC|3D Brooklyn, LLC|$20,000|COVID-19|https://covidsupplies.nyc/|
