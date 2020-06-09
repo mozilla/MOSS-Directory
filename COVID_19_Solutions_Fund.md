@@ -1,4 +1,4 @@
-The COVID-19 Solutions Fund provided funding to a limited number of open-source projects working to address the COVID-19 pandemic during the spring/summer of 2020; [click here for more information about the fund](https://blog.mozilla.org/blog/2020/03/31/moss-launches-covid-19-solutions-fund/).
+The COVID-19 Solutions Fund provided funding to a limited number of open-source projects working to address the COVID-19 pandemic during the spring/summer of 2020; [click here for more information about the fund](https://blog.mozilla.org/blog/2020/06/08/mozilla-announces-second-three-covid-19-solutions-fund-recipients/).
 
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
