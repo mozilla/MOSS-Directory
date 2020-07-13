@@ -1,6 +1,6 @@
 | Name | Organization  | Years served  |
 |---|---|---|
-| Abby Cabunoc Mayes | Mozilla Foundation | 2020- present |
+| Abby Cabunoc Mayes | Mozilla Foundation | 2020 - present |
 | Marcos Caceres | Mozilla (Platform Engineering) | 2019 - present |
 | Mike Hoye | Mozilla (Engineering Operations) | 2019 - present |
 | Emma Irwin | Mozilla (Open Innovation) | 2019 - present |
