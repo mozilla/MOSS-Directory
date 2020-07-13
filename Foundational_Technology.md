@@ -1,5 +1,6 @@
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
+|2020|Ajv|Evgeny Poberezkin|$89,500|Empower users|https://ajv.js.org/|
 |2020|ReSpec|Sudhanshu Vishnoi|$19,200|Empower users|https://github.com/w3c/respec|
 |2019|Core support|Public Lab|$30,203|Not Applicable|https://publiclab.org/|
 |2019|Core support|Software Freedom Conservancy|$50,000|Not Applicable|https://sfconservancy.org/|
