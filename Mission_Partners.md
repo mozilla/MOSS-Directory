@@ -1,5 +1,6 @@
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
+|2020|jsPsych|Vassar College|$65,813|Empower users|https://www.jspsych.org/|
 |2020|LibreRouter|Asociacion Civil Altermundi|$110,500|Broaden access|https://librerouter.org/|
 |2020|CHAOSS|University of Nebraska|$147,953|Empower users|https://chaoss.community/|
 |2020|Qubes OS|Invisible Things Lab GmbH|$128,000|Increase Security|https://www.qubes-os.org/|
