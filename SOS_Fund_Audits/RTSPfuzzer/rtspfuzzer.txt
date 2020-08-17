@@ -1,1 +1,1 @@
-
+RTSP Fuzzer Blog Post: https://blog.mozilla.org/attack-and-defense/2020/06/15/sponsoring-an-rtsp-server-fuzzer/
