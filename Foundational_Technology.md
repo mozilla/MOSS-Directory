@@ -1,6 +1,6 @@
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
-|2020|RNP|Ribose Inc.|$52,000.00|Increase security|https://www.rnpgp.com/|
+|2020|RNP|Ribose Inc.|$52,000|Increase security|https://www.rnpgp.com/|
 |2020|dnsperf|OARC, Inc.|$30,000|Broaden access|https://www.dns-oarc.net/index.php/tools/dnsperf|
 |2020|Ajv|Evgeny Poberezkin|$89,500|Empower users|https://ajv.js.org/|
 |2020|ReSpec|Sudhanshu Vishnoi|$19,200|Empower users|https://github.com/w3c/respec|
