@@ -1,6 +1,6 @@
 |Year| Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
-|2020|Masakhane|University of Pretoria|$40,250|Broaden access|https://www.masakhane.io/|
+|2020|Masakhane|Enterprises University of Pretoria (Pty) Ltd.|$40,250|Broaden access|https://www.masakhane.io/|
 |2020|jsPsych|Vassar College|$65,813|Empower users|https://www.jspsych.org/|
 |2020|LibreRouter|Asociacion Civil Altermundi|$110,500|Broaden access|https://librerouter.org/|
 |2020|CHAOSS|University of Nebraska|$147,953|Empower users|https://chaoss.community/|
