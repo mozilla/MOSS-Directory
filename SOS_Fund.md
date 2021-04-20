@@ -1,12 +1,12 @@
 | Year | Project Name  | Awardee  |  Amount (in $USD) |  Funding focus | Project website  |
 |---|---|---|---|---|---|
-| 2020 | RNP | Cure53 |
-| 2020 | CiviCRM | Cure53 |
-| 2020 | Homebrew | Radically Open Security |
-| 2020 | libtorrent | Include Security |
-| 2019 | iTerm 2 | Radically Open Security |
-| 2019 | tcpdump / libpcap | Include Security |
-| 2019 | libssh | Cure53 |
+| 2020 | RNP | Cure53 |---|  Increase Security |https://www.rnpgp.org/|
+| 2020 | CiviCRM | Cure53 |---|  Increase Security |https://civicrm.org/|
+| 2020 | Homebrew | Radically Open Security |---|  Increase Security |https://brew.sh/|
+| 2020 | libtorrent | Include Security |---|  Increase Security |https://www.libtorrent.org/|
+| 2019 | iTerm 2 | Radically Open Security |---|  Increase Security |https://iterm2.com/|
+| 2019 | tcpdump & libpcap | Include Security |---|  Increase Security |https://www.tcpdump.org/|
+| 2019 | libssh | Cure53 |---|  Increase Security |https://www.libssh.org/|
 | 2018 | Let's Encrypt | Let's Encrypt | $187,500 |  Increase Security | https://letsencrypt.org/ |
 | 2017 | expat | Radically Open Secure | $22,919 |  Increase Security | https://libexpat.github.io/ |
 | 2017 | ntp | Cure53 | $43,750 |  Increase Security | http://www.ntp.org/ |
